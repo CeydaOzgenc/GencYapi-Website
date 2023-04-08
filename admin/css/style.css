@@ -1,0 +1,85 @@
+@charset "utf-8";
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+	.admin_nav{
+	  width:15%;
+	  height:100%;
+	  position:fixed;
+	  overflow:hidden;
+	  background:#800000;
+	  font:20px 'Roboto';
+	  color:#fff;
+	  float:left;
+	}
+	.admin_nav ul li{
+	  width:100%;
+	  margin:15%;
+	}
+	.admin_nav ul a{
+	  text-decoration:none;
+	  color:#FFF;
+	}
+#admin_con{
+	  float:right;
+	  width:85%;
+	  height:100%;
+	}
+#admin_log{
+	   width:250px;
+	   height:120px;
+	   background:#800000;
+	   font:27px 'Roboto';
+	   border-radius:25%;
+	   color:#FFF;	
+	   margin-left:auto;
+	   margin-right:auto;
+	   margin-top:200px;
+	   padding:80px;   
+	}
+
+#admin_log input[type="submit"]{
+	   width:80px;
+	   height:30px;
+	   background:#fff;
+	   font:20px 'Roboto';
+	   border-radius:25%;
+	   border:#000;
+	   margin:50px 80px;
+	   color:#800000;	   
+	}
+.guncelle{
+	   font:20px 'Roboto';
+	   color:#000;
+	   margin:80px 0px 0px 100px;
+	}
+.guncelle h1{
+	   font:27px 'Roboto';
+	   color:#800000;
+	   margin-bottom:15px;
+	}
+.guncelle input[type="submit"] {
+    margin: 15px 0px 0px 0px;
+    width: 100px;
+    height: 35px;
+    font: 20px 'Roboto';
+    color: #fff;
+    background: #800000;
+    border-color: #800000;
+}
+.guncelle input[type="text"], .guncelle input[type="password"],.guncelle textarea{
+    width: 300px;
+    font: 18px 'Roboto';
+	margin-top:10px;
+}
+#mes_con table{
+	  margin:10px 50px;
+	}
+#mes_con table td{
+	  font:18px 'Roboto';;
+	  color:#800000;
+	  border-bottom:groove #000;
+	}
+#mes_con table .oz{
+	  background:#800000;
+	  color:#fff;
+	  border:groove #000;
+	}

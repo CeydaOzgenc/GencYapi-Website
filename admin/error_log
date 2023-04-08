@@ -1,0 +1,4 @@
+[22-Dec-2019 03:16:36 Europe/Istanbul] PHP Notice:  Undefined variable: _SESSION in /home/gencyapi/public_html/admin/galeri.php on line 2
+[25-Dec-2019 14:26:29 Europe/Istanbul] PHP Notice:  Undefined index: yazi in /home/gencyapi/public_html/admin/git.php on line 50
+[25-Dec-2019 14:48:42 Europe/Istanbul] PHP Notice:  Undefined index: yazi in /home/gencyapi/public_html/admin/git.php on line 50
+[25-Dec-2019 14:48:48 Europe/Istanbul] PHP Notice:  Undefined index: yazi in /home/gencyapi/public_html/admin/git.php on line 50
